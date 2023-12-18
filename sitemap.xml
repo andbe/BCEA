@@ -181,6 +181,9 @@
     <loc>https://n8thangreen.github.io/BCEA/reference/contour_graph.html</loc>
   </url>
   <url>
+    <loc>https://n8thangreen.github.io/BCEA/reference/contour_plotly_lines.html</loc>
+  </url>
+  <url>
     <loc>https://n8thangreen.github.io/BCEA/reference/convert_pts_to_mm.html</loc>
   </url>
   <url>
@@ -302,6 +305,9 @@
   </url>
   <url>
     <loc>https://n8thangreen.github.io/BCEA/reference/prep_ceplane_params.html</loc>
+  </url>
+  <url>
+    <loc>https://n8thangreen.github.io/BCEA/reference/prep_delta_ce.html</loc>
   </url>
   <url>
     <loc>https://n8thangreen.github.io/BCEA/reference/prep_eib_params.html</loc>
