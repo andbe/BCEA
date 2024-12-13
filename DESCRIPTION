@@ -47,8 +47,6 @@ Suggests:
     RColorBrewer,
     rjags,
     rmarkdown,
-    shiny,
-    shinythemes,
     splancs,
     testthat (>= 2.1.0),
     vdiffr,
