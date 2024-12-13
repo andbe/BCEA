@@ -18,7 +18,6 @@
 #' 
 #' @author Gianluca Baio
 #' @seealso \code{\link{bcea}}
-#' @import plotly
 #' @importFrom shiny runApp
 #' @references
 #' Baio, G., Dawid, A. P. (2011). Probabilistic Sensitivity
